@@ -39,4 +39,3 @@ function startTime(val:number){
 }
 
 startTime(input);
-
